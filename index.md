@@ -1,1 +1,3 @@
-date to be announced
+The first brainhack vienna happened in autumn 2016. The next one will take place in autumn 2019.
+
+More information to follow ...
